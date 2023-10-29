@@ -1,0 +1,18 @@
+html { text-align:center; }
+body { margin:0; margin-left:auto; margin-right:auto; width:974px; background-color:#FFFFFF; }
+body, td { font-size:14px; }
+form { margin:0; }
+img { border:none; }
+a { color:#6666FF; text-decoration:none; }
+a:hover { color:#FF5500; text-decoration:underline; }
+a:visited { }
+a:active { }
+
+#foot { padding-top:20px; padding-bottom:50px; font-size:12px; clear:both; }
+#logo { margin-top:10px; margin-bottom:10px; width:974px; height:59px; clear:both; }
+#banner { padding:4px 15px 3px 15px; font-size:12px; background-color:#FFD891; }
+.t1 { margin-top:10px; padding:6px 0px 2px 40px; width:932px; text-align:left; background-color:#F7FBFF; border:1px #ACA899 solid; overflow:hidden; clear:both; }
+.STYLE4 { color: #FF5500}
+.STYLE3 { font-size:12px; text-align:center; padding-right:0px; line-height:18px; overflow:hidden; }
+
+#friedlink { width:1px; height:1px; overflow:hidden; }
